@@ -15,8 +15,9 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-<!--
-<a href="버튼을 눌렀을 때 이동할 링크" target="_blank"><img src="https://img.shields.io/badge/Gmail-000000?style=plastic&logo=#EA4335&logoColor=로고색상"/></a>
--->
+
+<a href="링크" target="_blank"><img src="https://img.shields.io/badge/Portfolio-00AFAA?style=plastic&logo=Ghostery&logoColor=white"/></a>
+<a href="mailto:zoixssm@gmail.com" target="_blank"><img src="https://img.shields.io/badge/zoixssm@gmail.com-EA4335?style=plastic&logo=gmail&logoColor=white"/></a>
+<a href="https://github.com/jo-sol" target="_blank"><img src="https://img.shields.io/badge/Github-181717?style=plastic&logo=github&logoColor=white"/></a>
 
 <!-- 뱃지 업데이트 중 -->
