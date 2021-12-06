@@ -14,3 +14,9 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+<!--
+<a href="버튼을 눌렀을 때 이동할 링크" target="_blank"><img src="https://img.shields.io/badge/Gmail-000000?style=plastic&logo=#EA4335&logoColor=로고색상"/></a>
+-->
+
+<!-- 뱃지 업데이트 중 -->
