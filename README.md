@@ -21,3 +21,6 @@ Here are some ideas to get you started:
 <a href="https://github.com/jo-sol" target="_blank"><img src="https://img.shields.io/badge/Github-181717?style=plastic&logo=github&logoColor=white"/></a>
 
 <!-- 뱃지 업데이트 중 -->
+
+
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=jo-sol&show_icons=true&theme=swift)
