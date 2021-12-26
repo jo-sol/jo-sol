@@ -6,10 +6,8 @@
 <!-- 내 소개 -->
 ## :hatching_chick: 　About Me 
   
-<br>
-  
-[![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fjo-sol&count_bg=%239ECBFB&title_bg=%23DCB5FF&icon=smugmug.svg&icon_color=%23FFFFFF&title=%3A%29&edge_flat=false)](https://hits.seeyoufarm.com) <br><br>
-<a href="링크" target="_blank"><img src="https://img.shields.io/badge/Portfolio-00AFAA?logo=Ghostery&logoColor=white"/></a> <a href="mailto:zoixssm@gmail.com" target="_blank"><img src="https://img.shields.io/badge/zoixssm@gmail.com-EA4335?logo=gmail&logoColor=white"/></a> <a href="https://github.com/jo-sol" target="_blank"><img src="https://img.shields.io/badge/Github-181717?logo=github&logoColor=white"/></a> 
+<br><br>
+<a href="mailto:zoixssm@gmail.com" target="_blank"><img src="https://img.shields.io/badge/zoixssm@gmail.com-EA4335?logo=gmail&logoColor=white"/></a> <a href="https://github.com/jo-sol" target="_blank"><img src="https://img.shields.io/badge/Github-181717?logo=github&logoColor=white"/></a> [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fjo-sol&count_bg=%239ECBFB&title_bg=%23DCB5FF&icon=smugmug.svg&icon_color=%23FFFFFF&title=%3A%29&edge_flat=false)](https://hits.seeyoufarm.com)
   
 <br>
 
@@ -64,6 +62,9 @@ type=wave	//헤더의 모양이다.
 &fontColor=ffee00  //폰트 컬러 : hexa값으로 적어두되, #은 뺄것!
 &animation=fadeIn" //애니메이션 효과
 />
+
+
+<a href="링크" target="_blank"><img src="https://img.shields.io/badge/Portfolio-00AFAA?logo=Ghostery&logoColor=white"/></a>
 -->
 
 <!--
