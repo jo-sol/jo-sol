@@ -7,7 +7,7 @@
 ## :hatching_chick: 　About Me 
   
 <br><br>
-<a href="mailto:lately05@hanmail.net" target="_blank"><img src="https://img.shields.io/badge/zoixssm@gmail.com-EA4335?logo=gmail&logoColor=white"/></a> <a href="https://github.com/jo-sol" target="_blank"><img src="https://img.shields.io/badge/Github-181717?logo=github&logoColor=white"/></a> [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fjo-sol&count_bg=%239ECBFB&title_bg=%23DCB5FF&icon=smugmug.svg&icon_color=%23FFFFFF&title=%3A%29&edge_flat=false)](https://hits.seeyoufarm.com)
+<a href="mailto:lately05@hanmail.net" target="_blank"><img src="https://img.shields.io/badge/lately05@hanmail.net-EA4335?logo=gmail&logoColor=white"/></a> <a href="https://github.com/jo-sol" target="_blank"><img src="https://img.shields.io/badge/Github-181717?logo=github&logoColor=white"/></a> [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fjo-sol&count_bg=%239ECBFB&title_bg=%23DCB5FF&icon=smugmug.svg&icon_color=%23FFFFFF&title=%3A%29&edge_flat=false)](https://hits.seeyoufarm.com)
   
 <br>
 
